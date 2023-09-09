@@ -1,8 +1,8 @@
-Still is in Development Mode prefer not to use it Right now
+# Still is in Development Mode prefer not to use it Right now
 
 
 
-# React + Vite
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
