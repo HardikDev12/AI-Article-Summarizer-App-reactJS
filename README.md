@@ -1,7 +1,3 @@
-It seems like you want to improve the readability and clarity of the steps provided in the README file for your GitHub project. Here's a revised version:
-
----
-
 # AI Article Summarizer App (ReactJS)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
