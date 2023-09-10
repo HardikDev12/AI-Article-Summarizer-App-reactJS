@@ -9,9 +9,6 @@ Currently, two official plugins are available:
 
 
 
-Still
-
-
 #Steps to run this project
 
 1. Clone the Repository or download Zip File
