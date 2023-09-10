@@ -1,4 +1,4 @@
-![image](https://github.com/HardikDev12/AI-Article-Summarizer-App-reactJS/assets/60005599/b69941b5-7f3e-4f4d-9841-34d9cd4cc139)#React + Vite
+#React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
