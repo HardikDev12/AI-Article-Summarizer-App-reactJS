@@ -31,6 +31,7 @@ Currently, two official plugins are available:
    ```
    API_KEY=YOUR_API_KEY_HERE
    ```
+   
 
 4. **Run the Project**
 
@@ -42,4 +43,4 @@ Currently, two official plugins are available:
 
 ---
 
-In this version, the steps are organized with clear headings and bullet points for better readability. Additionally, code snippets and commands are formatted for easy understanding. Please replace `YOUR_API_KEY_HERE` with the actual API key in the `.env` file.
+
