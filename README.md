@@ -22,7 +22,8 @@ Currently, two official plugins are available:
    - Visit [Rapid API Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel).
    - Retrieve the API key from the code snippet.
 
-   ![API Key](https://github.com/HardikDev12/AI-Article-Summarizer-App-reactJS/assets/60005599/4ff16e8c-2589-4adf-a7f7-d2e1404bd4d7)
+   ![image](https://github.com/HardikDev12/AI-Article-Summarizer-App-reactJS/assets/60005599/0309195b-926b-49c2-a425-446c91894444)
+
 
 3. **Paste the API Key into the .env File**
 
